@@ -61,7 +61,7 @@ namespace HelloASPDotNet2.Controllers
             }
             else if (language == 2)
             {
-                html = $"<h1>어서 오십시오</span> {name}!</h1>";
+                html = $"<h1> Hwanyeonghabnida {name}!</h1>";
             }
             else if (language == 3)
             {
